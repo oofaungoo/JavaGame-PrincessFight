@@ -9,6 +9,10 @@ This is my very first programming project — A 2D side-scrolling action fightin
 1. If you don't have Java JDK installed, please install it first.
 2. If you're using VS Code, make sure to install the Java Extension Pack (by Microsoft) and Debugger for Java.
 3. Press F5 to run the game and enjoy! 🎮
+# ✅ Project Status
+📅 Last Updated: Oct 4, 2022
+
+🚀 Status: Completed
 
 # 🎮 How to Play
 - Use your mouse 🖱️ to click on the character to move them.
